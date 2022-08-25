@@ -72,21 +72,6 @@
     background-size: cover;
     background-image: url(guigui.png);
   }
-  .single-box .main.chisato {
-    background-image: url(chisato.png);
-  }
-  .single-box .bed {
-    width: 160px;
-    height: 20px;
-    position: absolute;
-    left: 20px;
-    bottom: 0;
-    background: rgba(255, 255, 255, 0.5) no-repeat 50% 50%;
-    border-radius: 2px;
-    cursor: pointer;
-    background-image: url(blue00f4.png);
-    background-size: 20px 20px;
-  }
   .ctrl-box {
     position: absolute;
     bottom: 0;
